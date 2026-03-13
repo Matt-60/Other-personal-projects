@@ -11,10 +11,10 @@ In addition to the main end‑to‑end projects, I completed several smaller pro
 
 2. **Dino Polska S.A. – Financial Analysis (Power BI)**  
   Analyzed financial statements and key performance indicators of Dino Polska S.A. using Power BI, including trend and ratio analysis.
-<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121745" src="https://github.com/user-attachments/assets/c283204c-9868-44d8-a490-7849e646d0c2" />
+<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121701" src="https://github.com/user-attachments/assets/834d086c-1662-4316-9ba7-df976050c35e" />
 <img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121727" src="https://github.com/user-attachments/assets/c99ed32e-1378-4774-815a-6cdc8341d47c" />
 <img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121714" src="https://github.com/user-attachments/assets/bddf31ee-0f9d-4efa-a26e-57e62d16d39d" />
-<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121701" src="https://github.com/user-attachments/assets/834d086c-1662-4316-9ba7-df976050c35e" />
+<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121745" src="https://github.com/user-attachments/assets/c283204c-9868-44d8-a490-7849e646d0c2" />
 
 
 3. **E‑Bike Sales Analysis & Recommendations (SQL)**  
@@ -26,8 +26,8 @@ In addition to the main end‑to‑end projects, I completed several smaller pro
 
 5. **Hearing Wellness Report & Recommendations (Power BI)**  
   Created a Power BI report analyzing hearing wellness data and delivered insights with actionable recommendations.
-<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121548" src="https://github.com/user-attachments/assets/c4ba1db2-b1db-4733-b01e-bd8ca017aa5c" />
 <img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121530" src="https://github.com/user-attachments/assets/167d2e28-4b99-46fc-abdd-d9f495f15ed6" />
+<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121548" src="https://github.com/user-attachments/assets/c4ba1db2-b1db-4733-b01e-bd8ca017aa5c" />
 
 6. **Survey Data Cleaning & Visualization (Python)**  
   Cleaned and transformed survey data using Pandas and created visualizations, including an interactive component.
